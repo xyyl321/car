@@ -1,0 +1,29 @@
+@import "public.css";
+
+section .imgs{
+    display:block;
+    width:1024px;
+    margin-top:20px;
+}
+section .aboutUs{
+    width:100%;
+    height:125px;
+    padding-top:40px;
+    box-sizing:border-box;
+}
+section .aboutUs .aboutBox{
+    width:100%;
+    height:65px;
+    display:block;
+    justify-content:space-between;
+    align-items:center;
+}
+section .aboutUs .aboutBox .sp{
+    width:428px;
+    height:1px;
+    background:#D5D5D5;
+}
+section .aboutUs .aboutBox .con{
+    width:128px;
+    height:100%;
+}
