@@ -17,6 +17,7 @@
     width:100%;
     position:absolute;
     top:-50px;
+    left:1336px;
 }
 .banner .bannerDot{
     width:102px;
@@ -34,6 +35,10 @@
     height:6px;
     background:#fff;
 }
+.banner .bannerDot .dot1{
+    background:#FF6000;
+    transition:0.5s;
+}
 .banner .arrow{
     width:40px;
     height:40px;
@@ -50,12 +55,10 @@
     right:20px;
 }
 .banner .arrow img{
+    display:block;
     width:40px;
-}
-/* .banner .arrow img:hover{
-    transform:translateY(-40px);
     transition:0.5s;
-} */
+}
 
 .textBox{
     width:100%;

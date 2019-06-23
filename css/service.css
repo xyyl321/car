@@ -23,6 +23,7 @@ section .sifen{
     width:100%;
 }
 .sifen .fen .title{
+    display:block;
     width:100%;
     height:24px;
     text-align:center;
